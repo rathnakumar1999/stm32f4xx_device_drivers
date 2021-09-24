@@ -1,0 +1,5 @@
+Usart_Tx_test.c:12:6:Button_ControlInit	24	static
+Usart_Tx_test.c:30:6:USART2_Init	16	static
+Usart_Tx_test.c:46:6:USART2_Gpio_Init	24	static
+Usart_Tx_test.c:67:6:Wait	24	static
+Usart_Tx_test.c:75:5:main	48	static

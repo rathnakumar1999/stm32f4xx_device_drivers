@@ -1,0 +1,3 @@
+stm32f407xx_rcc_driver.c:12:17:get_pll_clk	24	static
+stm32f407xx_rcc_driver.c:41:10:Get_APB1_Pclk	24	static
+stm32f407xx_rcc_driver.c:87:10:Get_APB2_Pclk	24	static
